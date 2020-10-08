@@ -1,0 +1,7 @@
+C:\Users\kevin\source\repos\PrestamoLibros\PrestamoLibros\bin\Debug\PrestamoLibros.exe.config
+C:\Users\kevin\source\repos\PrestamoLibros\PrestamoLibros\bin\Debug\PrestamoLibros.exe
+C:\Users\kevin\source\repos\PrestamoLibros\PrestamoLibros\bin\Debug\PrestamoLibros.pdb
+C:\Users\kevin\source\repos\PrestamoLibros\PrestamoLibros\obj\Debug\PrestamoLibros.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\PrestamoLibros\PrestamoLibros\obj\Debug\PrestamoLibros.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\PrestamoLibros\PrestamoLibros\obj\Debug\PrestamoLibros.exe
+C:\Users\kevin\source\repos\PrestamoLibros\PrestamoLibros\obj\Debug\PrestamoLibros.pdb
